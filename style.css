@@ -1,0 +1,14 @@
+<style>img{
+    width: fit-content;
+    height: fit-content;
+    background-image: url("https://drive.google.com/uc?export=view&id=1ew9IrWV9dOuXd8jcEaUVn8fHBvI6yYLh");
+    background-repeat: no-repeat;
+    background-size: contain;
+}</style>
+
+.FAQ h1, .FAQ p {
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 20px;
+  }
